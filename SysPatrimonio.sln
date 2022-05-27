@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysPatrimonio", "SysPatrimonio.csproj", "{AF018472-02BA-4075-86B3-F6C2F700F024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF018472-02BA-4075-86B3-F6C2F700F024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF018472-02BA-4075-86B3-F6C2F700F024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF018472-02BA-4075-86B3-F6C2F700F024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF018472-02BA-4075-86B3-F6C2F700F024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D841881-B34C-47BE-9D60-958C490AA4EB}
+	EndGlobalSection
+EndGlobal
